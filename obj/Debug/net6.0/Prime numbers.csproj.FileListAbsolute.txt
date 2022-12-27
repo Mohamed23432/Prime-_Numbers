@@ -1,0 +1,15 @@
+D:\Projects\ConsoleApp3.cs\Prime numbers\bin\Debug\net6.0\Prime numbers.exe
+D:\Projects\ConsoleApp3.cs\Prime numbers\bin\Debug\net6.0\Prime numbers.deps.json
+D:\Projects\ConsoleApp3.cs\Prime numbers\bin\Debug\net6.0\Prime numbers.runtimeconfig.json
+D:\Projects\ConsoleApp3.cs\Prime numbers\bin\Debug\net6.0\Prime numbers.dll
+D:\Projects\ConsoleApp3.cs\Prime numbers\bin\Debug\net6.0\Prime numbers.pdb
+D:\Projects\ConsoleApp3.cs\Prime numbers\obj\Debug\net6.0\Prime numbers.csproj.AssemblyReference.cache
+D:\Projects\ConsoleApp3.cs\Prime numbers\obj\Debug\net6.0\Prime numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ConsoleApp3.cs\Prime numbers\obj\Debug\net6.0\Prime numbers.AssemblyInfoInputs.cache
+D:\Projects\ConsoleApp3.cs\Prime numbers\obj\Debug\net6.0\Prime numbers.AssemblyInfo.cs
+D:\Projects\ConsoleApp3.cs\Prime numbers\obj\Debug\net6.0\Prime numbers.csproj.CoreCompileInputs.cache
+D:\Projects\ConsoleApp3.cs\Prime numbers\obj\Debug\net6.0\Prime numbers.dll
+D:\Projects\ConsoleApp3.cs\Prime numbers\obj\Debug\net6.0\refint\Prime numbers.dll
+D:\Projects\ConsoleApp3.cs\Prime numbers\obj\Debug\net6.0\Prime numbers.pdb
+D:\Projects\ConsoleApp3.cs\Prime numbers\obj\Debug\net6.0\Prime numbers.genruntimeconfig.cache
+D:\Projects\ConsoleApp3.cs\Prime numbers\obj\Debug\net6.0\ref\Prime numbers.dll
